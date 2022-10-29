@@ -20,7 +20,7 @@ Work experience
 ======
 * <b> October - June 2019/2020 <b>: Research internship (UCLouvain)
   * supervisor : Pr. Johan Segers
-  * Writing  ofa research paper on empirical processes. In this paper, the prediction error of the least squares estimator is controlled uniformly over a large class of functions.
+  * Writing  of a research article on empirical processes. In this paper, the prediction error of the least squares estimator is controlled uniformly over a large class of functions.
 * <b> April - September 2019 <b>: Research internship (Télécom ParisTech)
   * supervisor : Pr. Florence d’Alché-Buc
   * Study of kernel methods with a focus on the literature and its algorithmic implementation (5.5 months).
