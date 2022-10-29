@@ -18,18 +18,24 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* <b> October - June 2019/2020 <b>: Research internship (UCLouvain)
+  * supervisor : Pr. Johan Segers
+  * Writing  ofa research paper on empirical processes. In this paper, the prediction error of the least squares estimator is controlled uniformly over a large class of functions.
+* <b> April - September 2019 <b>: Research internship (Télécom ParisTech)
+  * supervisor : Pr. Florence d’Alché-Buc
+  * Study of kernel methods with a focus on the literature and its algorithmic implementation (5.5 months).
+* <b> April - July 2018 <b>: Research internship (Télécom ParisTech).
+  * supervisor : Pr. Aurélien Garivier
+  * Study of the influence of the number of layers in neural networks and comparison of the expressiveness of 2 and 3-layer networks (4 months).
+* <b> April - June 2017 <b>: Research internship (Télécom ParisTech)
+  * supervisor : Pr. Agnès Desolneux
+  * Study of stochastic processes to model the sea surface (2 months).
 
-  
 Skills
 ======
 * Probabilities
 * Machine Learning
 * Optimization
-
   
 Other
 ======
