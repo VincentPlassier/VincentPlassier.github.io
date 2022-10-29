@@ -24,10 +24,10 @@ Work experience
 * <b> April - September 2019 <b>: Research internship (Télécom ParisTech)
   * supervisor : Pr. Florence d’Alché-Buc
   * Study of kernel methods with a focus on the literature and its algorithmic implementation (5.5 months).
-* <b> April - July 2018 <b>: Research internship (Télécom ParisTech).
+* <b> April - July 2018 <b>: Research internship (Université Paul Sabatier)
   * supervisor : Pr. Aurélien Garivier
   * Study of the influence of the number of layers in neural networks and comparison of the expressiveness of 2 and 3-layer networks (4 months).
-* <b> April - June 2017 <b>: Research internship (Télécom ParisTech)
+* <b> April - June 2017 <b>: Research internship (CMLA)
   * supervisor : Pr. Agnès Desolneux
   * Study of stochastic processes to model the sea surface (2 months).
 
