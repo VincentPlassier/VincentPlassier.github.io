@@ -33,6 +33,10 @@ Work experience
 * <b> April - June 2017: Viva examiner in CPGE (pre-university admission)
   * Conducted oral examinations for MPSI students at Lycée Jacques Decour (Paris IX).
 
+PRESS RELEASE
+======
+* Reportage : [Behind the scenes of the giant Huawei](https://www.prismashop.fr/vn/les-archives-de-management/VNMAN298.html)
+
 MODELLING SKILLSET
 ======
 * Probabilities

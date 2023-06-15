@@ -23,7 +23,7 @@ Previously, I graduated from Ecole Normale Supérieure Paris-Saclay. proceeI hol
 - 24/04/2023: Excited to announce that my submission titled "Conformal Prediction for Federated Uncertainty Quantification Under Label Shift" has been accepted for inclusion in the proceedings of *ICML 2023*. ([ArXiv](https://arxiv.org/pdf/2306.05131.pdf))
 - 20/01/2023: Delighted to share that our paper titled "Federated Averaging Langevin Dynamics: Toward a unified theory of and new algorithms" has been accepted for *AISTATS 2023*. ([Proceedings](https://proceedings.mlr.press/v206/plassier23a/plassier23a.pdf))
 - 13-17/03/2023: Participated in the *workshop* on "Statistics, Learning, Simulation, and Image" held in Hyères.
-- 24-28/10/2022: Attended an international *workshop* at CIRM on [CIRM](https://conferences.cirm-math.fr/2635.html) on the Computational methods for unifying multiple statistical analyses (Bayesian Fusion).
+- 24-28/10/2022: Attended an international *workshop* at [CIRM](https://conferences.cirm-math.fr/2635.html) on the Computational methods for unifying multiple statistical analyses (Bayesian Fusion).
 - 24-30/07/2022: Participated in the "Math for Machine Learning Summer School" ([link](https://www.emines-ingenieur.org/en/education/summer-school)) at Mohammed VI University in Ben Guerir, Morocco. I also had the opportunity to deliver a talk during the event.
 - 07-11/03/2022: Engaged in the workshop titled "New Challenges in Statistical Learning" held in Font-Romeu.
 - 01/2022: Our paper titled "QLSD: Quantised Langevin Stochastic Dynamics for Bayesian Federated Learning" has been accepted for *AISTATS 2022* ([Proceedings](https://proceedings.mlr.press/v151/vono22a)).

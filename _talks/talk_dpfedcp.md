@@ -1,5 +1,5 @@
 ---
-title: "QLSD: Quantised Langevin Stochastic Dynamics for Bayesian Federated Learning"
+title: "Conformal Prediction for Federated Uncertainty Quantification Under Label Shift"
 collection: talks
 # type: "Talk"
 permalink: /talks/talk_qlsd
@@ -8,5 +8,5 @@ permalink: /talks/talk_qlsd
 # location: "San Francisco, California"
 ---
 
-- March 07, 2021: 
-- ??? : Lagrange Research Center
+- July 25, 2023: Poster session at International Conference on Machine Learning 2023, Hawaii Convention Center, USA.
+- March 16, 2023: Workshop on Statistics, Learning, Simulation, and Image workshop, Hyères, France.
