@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,25 +11,27 @@ redirect_from:
 
 Education
 ======
-* <b> 2020-present </b>: PhD Candidate at CMAP, Ecole Polytechnique, France
+* <b> 2020-present </b>: PhD Candidate at CMAP, \'Ecole Polytechnique, France
 * <b> 2019-2020 </b>: Research internship at Louvain-la-Neuve, Belgium
-* <b> 2018-2019 </b>: MSc in Mathematics, Vision, Learning, Ecole Normale Supérieure Paris-Saclay, France
-* <b> 2018-2019 </b>: MSc in Applied Mathematics, Ecole Normale Supérieure Paris-Saclay, France
+* <b> 2018-2019 </b>: MSc in Mathematics, Vision, Learning, \'Ecole Normale Supérieure Paris-Saclay, France
+* <b> 2018-2019 </b>: MSc in Applied Mathematics, \'Ecole Normale Supérieure Paris-Saclay, France
 
 Work experience
 ======
 * <b> October - June 2019/2020 <b>: Research internship (UCLouvain)
-  * supervisor : Pr. Johan Segers
-  * Writing  of a research article on empirical processes. In this paper, the prediction error of the least squares estimator is controlled uniformly over a large class of functions.
-* <b> April - September 2019 <b>: Research internship (Télécom ParisTech)
-  * supervisor : Pr. Florence d’Alché-Buc
-  * Study of kernel methods with a focus on the literature and its algorithmic implementation (5.5 months).
+  * Supervisor : Prof Johan Segers
+  * Conducted research on empirical processes and Monte Carlo simulations. Utilized control variates to reduce the variance of the Monte Carlo estimate and ensure convergence guarantees for worst-case prediction risk.
+* <b> April - September 2019 <b>: Research internship (Télécom Paris)
+  * Supervisor : Prof Florence d’Alché-Buc
+  * Conducted research on kernel methods, focusing on the feature map to transfer the data into a Hilbert space. By doing so, the solution of a nonlinear optimization problem is transformed into the solution of a linear problem within this Hilbert space (5.5 months).
 * <b> April - July 2018 <b>: Research internship (Université Paul Sabatier)
-  * supervisor : Pr. Aurélien Garivier
-  * Study of the influence of the number of layers in neural networks and comparison of the expressiveness of 2 and 3-layer networks (4 months).
-* <b> April - June 2017 <b>: Research internship (CMLA)
-  * supervisor : Pr. Agnès Desolneux
+  * Supervisor : Prof Aurélien Garivier
+  * Investigated impact of neural network layer numbers on expressiveness, comparing 2-layer and 3-layer networks (4 months).
+* <b> April - June 2017 <b>: Research internship (Research Center for Applied Mathematics)
+  * Supervisor : Prof Agnès Desolneux
   * Study of stochastic processes to model the sea surface (2 months).
+* <b> April - June 2017: Viva examiner in CPGE (pre-university admission)
+  * Conducted oral examinations for MPSI students at Lycée Jacques Decour (Paris IX).
 
 Skills
 ======
