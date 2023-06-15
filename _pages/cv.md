@@ -35,11 +35,11 @@ Work experience
 
 PRESS RELEASE
 ======
-* Reportage : [Behind the scenes of the giant Huawei](https://www.prismashop.fr/vn/les-archives-de-management/VNMAN298.html)
+* Reportage : [Behind the scenes of the giant Huawei](https://www.prismashop.fr/vn/les-archives-de-management/VNMAN298.html).
 
 MODELLING SKILLSET
 ======
-* Probabilities
+* Probability & Statistics
 * Machine Learning
 * Optimization
   

@@ -15,7 +15,7 @@ I am currently working on federated Monte Carlo methods with applications to lar
 - Distributed/Federated Monte Carlo methods
 - Uncertainty quantification via Conformal Prediction/Bayesian Fusion
 
-Previously, I graduated from Ecole Normale Supérieure Paris-Saclay. proceeI hold a master's degree in applied mathematics from ENS Paris-Saclay and a master' degree in Mathematics, Vision and Learning ([MVA](https://www.master-mva.com/)).
+Previously, I graduated from Ecole Normale Supérieure Paris-Saclay, where I earned a master's degree in Applied Mathematics. Additionally, I hold a master's degree Mathematics, Vision and Learning, from ENS Paris-Saclay ([MVA](https://www.master-mva.com/)).
 
 **News.**
 - 23-29/07/2023: I will be presenting my paper at the [Hawaii Convention Center](https://www.google.de/maps/place/Hawaii+Convention+Center/@21.2788975,-157.8322595,13z/data=!4m6!3m5!1s0x7c006de5aaaaaaab:0xbf852970ed70bc17!8m2!3d21.2896943!4d-157.8358919!16zL20vMDM0YnBm?entry=ttu).
