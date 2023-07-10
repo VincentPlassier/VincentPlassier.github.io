@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* <b>2023-present</b>: Postdoctoral researcher at Ecole Polytechnique, Institut Polytechnique de Paris, team SIMPAS, France
-* <b>2019-2022</b>: PhD candidate at Télécom Paris, Institut Polytechnique de Paris, group S2A, IDS, France
-* <b>2018-2019</b>: MSc in Mathematics,Vision and Learning, Ecole Normale Supérieure Paris-Saclay, France
-* <b>2016-2019</b>: MSc in applied mathematics, Télécom Paris, Institut Polytechnique de Paris, France
+* <b> 2020-present </b>: PhD Candidate at CMAP, Ecole Polytechnique, France
+* <b> 2019-2020 </b>: Research internship at Louvain-la-Neuve, Belgium
+* <b> 2018-2019 </b>: MSc in Mathematics, Vision, Learning, Ecole Normale Supérieure Paris-Saclay, France
+* <b> 2018-2019 </b>: MSc in Applied Mathematics, Ecole Normale Supérieure Paris-Saclay, France
 
 Work experience
 ======
@@ -35,16 +35,15 @@ Work experience
 
 PRESS RELEASE
 ======
-* Reportage : [Behind the scenes of the giant Huawei](https://www.prismashop.fr/vn/les-archives-de-management/VNMAN298.html)
+* Reportage : [Behind the scenes of the giant Huawei](https://www.prismashop.fr/vn/les-archives-de-management/VNMAN298.html).
 
 MODELLING SKILLSET
 ======
-* Probabilities
+* Probability & Statistics
 * Machine Learning
 * Optimization
   
-Other & Leisure
+Other
 ======
-* Music: piano and musical training at the conservatory (3rd cycle)
-* Workout, Chess
-* Academic support sessions in the program "Cordées de la réussite"
+* Chess
+* Bouldering
