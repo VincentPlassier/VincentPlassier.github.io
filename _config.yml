@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vincent Plassier"
+title                    : "Rémi Leluc"
 title_separator          : "-"
-name                     : &name "Vincent Plassier"
-description              : &description "PhD candidate"
-url                      : https://vincentplassier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Remi Leluc"
+description              : &description "Postdoctoral Researcher"
+url                      : https://remileluc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vincentplassier.github.io"
+repository               : "remileluc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vincent Plassier"
-  avatar           : "photo_profile.jpg"
-  bio              : "PhD Candidate in Machine Learning"
+  name             : "Rémi Leluc"
+  avatar           : "photo_web.jpg"
+  bio              : "Postdoctoral Researcher"
   location         : "Paris, France"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=LCk-NbsAAAAJ&hl=en&oi=ao"
-  email            : "vincent.plassier@polytechnique.edu"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=o36M-igAAAAJ&hl=fr&oi=ao"
+  email            : "remi.leluc@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "VincentPlassier"
+  github           : "RemiLELUC"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "vincent-plassier-179161172/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "r%C3%A9mi-leluc-597429146"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -175,12 +175,16 @@ kramdown:
 
 # Collections
 collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
+ 
 
 
 # Defaults
@@ -204,14 +208,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  #- scope:
-  #    path: ""
-  #    type: teaching
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -221,15 +225,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  #- scope:
-  #    path: ""
-  #    type: portfolio
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comment: true
   # _talks
   - scope:
       path: ""
@@ -238,6 +233,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  
 
 # Sass/SCSS
 sass:
@@ -296,7 +292,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
+ 
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
