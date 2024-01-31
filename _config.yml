@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vincent Plassier"
 title_separator          : "-"
 name                     : &name "Vincent Plassier"
-description              : &description "PhD candidate"
+description              : &description "PhD"
 url                      : https://vincentplassier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vincentplassier.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vincent Plassier"
   avatar           : "photo_profile.jpg"
-  bio              : "PhD Candidate in Machine Learning"
+  bio              : "PhD in Machine Learning"
   location         : "Paris, France"
   employer         :
   pubmed           : 

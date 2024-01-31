@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a third year PhD candidate at CMAP (Ecole Polytechnique) and Lagrange research center. My advisors are [Eric Moulines](https://fr.wikipedia.org/wiki/%C3%89ric_Moulines) and [Alain Durmus](https://alain.perso.math.cnrs.fr/).
+Hello, I just defended my PhD a couple of months ago at Ecole Polytechnique. My PhD was conducted at École Polytechnique (CMAP) on a grant from Huawei Technologies (Lagrange Research Center). My advisors were [Eric Moulines](https://fr.wikipedia.org/wiki/%C3%89ric_Moulines) and [Alain Durmus](https://alain.perso.math.cnrs.fr/).
 
 I am currently working on federated Monte Carlo methods with applications to large-scale Bayesian inference. More broadly, I am interested in the following topics:
 - Machine learning applications

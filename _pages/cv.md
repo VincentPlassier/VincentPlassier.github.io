@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* <b> 2020-present </b>: PhD Candidate at CMAP, Ecole Polytechnique, France
+* <b> 2020-2023 </b>: PhD Candidate at CMAP, Ecole Polytechnique, France
 * <b> 2019-2020 </b>: Research internship at Louvain-la-Neuve, Belgium
 * <b> 2018-2019 </b>: MSc in Mathematics, Vision, Learning, Ecole Normale Supérieure Paris-Saclay, France
 * <b> 2018-2019 </b>: MSc in Applied Mathematics, Ecole Normale Supérieure Paris-Saclay, France
