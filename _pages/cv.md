@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * <b> February - Present 2024/NA <b>: Research Scientist, Huawei Technologies
-  * Conduct research on distilling diffusion models for image generation, the purpose is to accelerate image sampling. My work focuses on developing techniques to enhance sampling efficiency, which reduces computational costs while maintaining the performance of image generation models.
+  * Started at Huawei as a PhD candidate. Currently, continue to develop conformal prediction techniques to generate robust prediction sets. My new research area includes diffusion models for image generation and acceleration of image sampling.
 * <b> October - June 2019/2020 <b>: Research internship, UCLouvain
   * Supervisor : Prof Johan Segers
   * Conducted research on empirical processes and Monte Carlo simulations. Utilized control variates to reduce the variance of the Monte Carlo estimate and ensure convergence guarantees for worst-case prediction risk.

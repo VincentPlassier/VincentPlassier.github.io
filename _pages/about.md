@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<center>Vincent Plassier, Research Engineer</center>"
+title: "<center>Vincent Plassier, Ph.D Research Engineer</center>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
