@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vincent Plassier"
 title_separator          : "-"
 name                     : &name "Vincent Plassier"
-description              : &description "PhD"
+description              : &description "Research Scientist"
 url                      : https://vincentplassier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vincentplassier.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Vincent Plassier"
   avatar           : "photo_profile.jpg"
-  bio              : "PhD in Machine Learning"
+  bio              : "Research Scientist"
   location         : "Paris, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LCk-NbsAAAAJ&hl=en&oi=ao"
-  email            : "vincent.plassier@polytechnique.edu"
+  email            : "vincent.plassier@ens-paris-saclay.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
