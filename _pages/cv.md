@@ -18,21 +18,21 @@ Education
 
 Work experience
 ======
-* <b> February - Present 2024/NA <b>: Research Scientist (Huawei Technologies)
+* <b> February - Present 2024/NA <b>: Research Scientist, Huawei Technologies
   * Conduct research on distilling diffusion models for image generation, the purpose is to accelerate image sampling. My work focuses on developing techniques to enhance sampling efficiency, which reduces computational costs while maintaining the performance of image generation models.
-* <b> October - June 2019/2020 <b>: Research internship (UCLouvain)
+* <b> October - June 2019/2020 <b>: Research internship, UCLouvain
   * Supervisor : Prof Johan Segers
   * Conducted research on empirical processes and Monte Carlo simulations. Utilized control variates to reduce the variance of the Monte Carlo estimate and ensure convergence guarantees for worst-case prediction risk.
-* <b> April - September 2019 <b>: Research internship (Télécom Paris)
+* <b> April - September 2019 <b>: Research internship, Télécom Paris
   * Supervisor : Prof Florence d’Alché-Buc
   * Conducted research on kernel methods, focusing on the feature map to transfer the data into a Hilbert space. By doing so, the solution of a nonlinear optimization problem is transformed into the solution of a linear problem within this Hilbert space (5.5 months).
-* <b> April - July 2018 <b>: Research internship (Université Paul Sabatier)
+* <b> April - July 2018 <b>: Research internship, Université Paul Sabatier
   * Supervisor : Prof Aurélien Garivier
   * Investigated impact of neural network layer numbers on expressiveness, comparing 2-layer and 3-layer networks (4 months).
-* <b> April - June 2017 <b>: Research internship (Research Center for Applied Mathematics)
+* <b> April - June 2017 <b>: Research internship, Research Center for Applied Mathematics
   * Supervisor : Prof Agnès Desolneux
   * Study of stochastic processes to model the sea surface (2 months).
-* <b> April - June 2017: Viva examiner in CPGE (pre-university admission)
+* <b> April - June 2017 <b>: Viva examiner in CPGE (pre-university admission)
   * Conducted oral examinations for MPSI students at Lycée Jacques Decour (Paris IX).
 
 PRESS RELEASE
