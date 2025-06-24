@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* <b> January - Presence 2025/NA <b>: Quantitative Researcher, Qube Research & Technologies
+* <b> January - Present 2025/NA <b>: Quantitative Researcher, Qube Research & Technologies
   * Joined the CTA team to develop mid-frequency trading strategies, focusing on alpha research across global futures markets. Leveraged statistical and quantitative methods to design, test, and evaluate predictive signals.
 * <b> November - December 2020/2024 <b>: Research Scientist, Huawei Technologies
   * Started at Huawei as a PhD candidate, focusing on research related to large-scale uncertainty quantification. Continue to develop conformal prediction techniques to generate robust prediction sets. New research area includes diffusion models for image generation and acceleration of image sampling.
